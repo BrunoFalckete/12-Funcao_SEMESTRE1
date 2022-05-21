@@ -39,6 +39,7 @@ e de o resultado da media em um vetor de saida
              }
         }
         return nota_aux;
+        
     }
 
     void main(){
